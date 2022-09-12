@@ -1,0 +1,72 @@
+*{}
+.main_web_header{
+height:600px;border:solid 1px #833048;
+background-image:url(../images/lobby.jpg);
+background-size:cover;
+background-position:0px -100px;
+}
+.main_cover{
+height:100%;background-color:rgba(28,11,18,0.5)
+}
+
+.title_block{text-align:center;background:#05000B;
+width:50%;display:inline-block;}
+
+.rsv_nw_block{text-align:center;padding:10px;
+border:3px solid lightblue;width:35%;
+border-radius:20px;
+display:inline-block;}
+
+
+.nav_bar{
+background:rgb(28,11,18);padding:15px 0px;
+text-align:center;
+}
+.main_links{
+color:#EACD8D;font-size:22px;
+text-decoration:none;
+}
+
+.main_links:hover{
+color:#fff;
+}
+.rsv_form label{color:#fff;font-size:1.3em}
+.rsv_form input{border:solid lightblue 3px;
+padding:4px;border-radius:20px;
+}
+
+/* rooms section*/
+.rms_sect{
+text-align:center;padding:25px;
+}
+.rms_sect_title{
+color:#EACD8D;text-align:center;font-size:3.5em;
+padding:25px;
+
+}
+
+.rms_itm{display:inline-block;
+border: solid 3px lightgray;
+height:300px;
+width:40%;margin:20px;
+}
+
+
+.rm_sect_links{color:#EACD8D;background:#05000B;
+display:inline-block;
+width:200px;margin:20px;text-decoration:none;padding:20px;}
+
+/* intro video section*/
+.intro_vid_sec{
+text-align:center;padding:25px;
+}
+.intro_vid_sec_title{
+color:#EACD8D;text-align:center;font-size:3.5em;
+padding:25px;
+}
+
+.intro_vid{
+color:#EACD8D;text-align:center;font-size:3.5em;
+padding:25px;
+}
+
